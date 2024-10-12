@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControleFluxo/ControleFluxo.iml" filepath="$PROJECT_DIR$/ControleFluxo/ControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debugging_java/Debugging_java.iml" filepath="$PROJECT_DIR$/Debugging_java/Debugging_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dio-Trilha-Basica-Java.iml" filepath="$PROJECT_DIR$/.idea/Dio-Trilha-Basica-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas-de-Repetição/Estruturas-de-Repetição.iml" filepath="$PROJECT_DIR$/Estruturas-de-Repetição/Estruturas-de-Repetição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resolução_Desafios/Resolução_Desafios.iml" filepath="$PROJECT_DIR$/Resolução_Desafios/Resolução_Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento_de_excecoes/Tratamento_de_excecoes.iml" filepath="$PROJECT_DIR$/Tratamento_de_excecoes/Tratamento_de_excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
