@@ -16,10 +16,10 @@ public class Conta {
 
     private String agencia;
 
-    @Column(precision = 2, scale = 13)
+    @Column(precision = 13, scale = 2)
     private BigDecimal saldo;
 
-    @Column(precision = 2, scale = 13)
+    @Column(precision = 13, scale = 2)
     private BigDecimal chequeEspecial;
 
     public Long getId() {
